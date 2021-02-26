@@ -1,0 +1,3 @@
+Hola, soy la linea que quiero escribir con el BufferedWriter
+Hola, soy otra linea que quiero escribir con el BufferedWriter
+Estas 3 lineas luego las leere con el BufferedReader

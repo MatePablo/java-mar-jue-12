@@ -1,0 +1,15 @@
+Este es otro texto de prueba, que va a reemplazar todo lo anterior que escribi en el archivo.
+Pero esto no lo va a reemplazar, ya que lo estoy apendizando en lugar de reemplazar.
+Aqui estoy agregando una linea que tiene salto de linea al final.
+Lunes.
+Martes.
+Miercoles.
+Jueves.
+Viernes.
+Lunes.
+Lo siguiente es una lista de lineas que voy a agregar mediante el metodo addLines:
+Primavera
+Otonoño
+Invierno
+Verano
+Primavera
